@@ -1,4 +1,10 @@
-## Radio Astronomy with a Satellite Dish
-Simple radio astronomy experiment using a satellite dish created by Mike Gaylard
+# BasicsOfInterferometry
+Introductory material illustrating how interferometry works, as well as how images are generated from interferometry data.
 
-# -fin-
+# SolarBrightnessTemperature
+A simple radio astronomy experiment that uses a digital TV satellite dish to measure and calculate the brightness temperature of the Sun.    
+It introduces terminology and concept that are relevant for single dish radio astronomy.
+
+The project was developed by Mike Gaylard from HartRAO (SA)
+
+-fin-
