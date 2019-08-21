@@ -3,6 +3,8 @@ Introductory material illustrating how interferometry works, as well as how imag
 
 
 # CASABasics
+Examples of how to process interferometry data using CASA.     
+Main concepts in notebooks: flagging, calibration and imaging
 
 
 # CheatSheets
