@@ -10,6 +10,13 @@ The project was developed by Mike Gaylard from HartRAO (SA)
 Introductory material illustrating how interferometry works, as well as how images are generated from interferometry data.
 
 
+# FFTconcepts
+Fundamentally radio astronomy relies on the Fourier Transform's ability to extract individual
+frequency components from measured complex wave functions.
+For the moment, let's get a conceptual understanding of how a wave can be approximated by the sum of frequencies components.
+As well as, extracting such components from signals using the Fourier transform.
+
+
 # More advanced topics
 ## Work books
 Some example workbooks from other telescopes
