@@ -1,13 +1,9 @@
 # SolarBrightnessTemperature
 A simple radio astronomy experiment that uses a digital TV satellite dish to measure and calculate the
 brightness temperature of the Sun.
-It introduces terminology and concept that are relevant for single dish radio astronomy.
+It introduces terminology and concepts that are relevant for single dish radio astronomy.
 
 The project was developed by Mike Gaylard from HartRAO (SA)
-
-
-# BasicsOfInterferometry
-Introductory material illustrating how interferometry works, as well as how images are generated from interferometry data.
 
 
 # FFTconcepts
@@ -15,6 +11,10 @@ Fundamentally radio astronomy relies on the Fourier Transform's ability to extra
 frequency components from measured complex wave functions.
 For the moment, let's get a conceptual understanding of how a wave can be approximated by the sum of frequencies components.
 As well as, extracting such components from signals using the Fourier transform.
+
+
+# BasicsOfInterferometry
+Introductory material illustrating how interferometry works, as well as how images are generated from interferometry data.
 
 
 # More advanced topics
